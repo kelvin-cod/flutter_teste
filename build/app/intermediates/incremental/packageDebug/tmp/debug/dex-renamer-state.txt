@@ -1,0 +1,4 @@
+#Sun Nov 10 21:56:05 BRST 2019
+base.0=C\:\\Users\\kelvi\\OneDrive\\Documentos\\GitHub\\flutter_teste\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
